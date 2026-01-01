@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+frontend/node_modules/
+
+# 環境変数ファイル
+.env
+.env.*
+
+# OS/エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+
+# その他
+memo.drawio
